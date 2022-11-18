@@ -1,9 +1,12 @@
 
 # 7641_A4_Markov_Decision_Processes
 
-There are 2 parts to this code. The first part is the Forest Management Problem which you can run by executing
+There are 2 parts to this code. 
+
+The first part is the Forest Management Problem which you can run by executing
 ForestManagement.py. This function will create different graphs located in the SaveFigures Directory. Most of them have
 a sub folder. The only one that does not have a sub folder is the rolling averages.
+
 The Next part is to run the MDPExample.py file. This file will run the experiment for the Policy and Value Iterations,
 this function will also call the OtherExample.py and fun the Q-Learning algorithm. The Policy and Value images are
 saved in the Frozen lake directory the Q-Learning are saved under the OtherExample Directory.
@@ -20,7 +23,7 @@ my_env/Scripts/activate
 
 
 The link to the repository and all supporting documents is here:
-https://gitfront.io/r/aortiz44/AxYP2uKJKuPd/7641-A3-Unsupervised-Learning-PA/
+https://gitfront.io/r/aortiz44/Eq4xQ1ZyvJkA/7641-A4-Markov-Decision-Processes-PA/
 https://drive.google.com/drive/folders/1OGwSVZRjJ1DxFc-YH3xgKDcErK6Qxged?usp=share_link
 
 
